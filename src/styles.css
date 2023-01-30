@@ -1,0 +1,32 @@
+
+html, body {
+background-color: blueviolet;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1.3rem;
+padding: 70px;
+
+}
+
+button{
+
+    color: white;
+    padding: 15px;
+    shape-margin: 60px;
+    outline-color: white;
+    outline-width: 20px;
+    background-color: black;
+    margin-right: 10px;
+    font-size: 50px;
+
+}
+
+h1{
+    font-size: 100px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+
